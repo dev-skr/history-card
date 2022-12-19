@@ -1,0 +1,41 @@
+.item {
+  display: flex;
+  font-size: 12px;
+}
+.time {
+  margin-right: 25px;
+  font-weight: 400;
+  width: 10%;
+}
+.link-details-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.link-details {
+  display: flex;
+  width: 100%;
+}
+span {
+  align-self: center;
+}
+.logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 20px;
+  align-self: center;
+}
+.url-tag {
+  margin-left: 10px;
+  color: #64748b;
+}
+.delete-logo {
+  height: 15px;
+  width: 15px;
+  align-self: center;
+}
+#delete {
+  border: 0px;
+  border-radius: 5px;
+  height: 20px;
+}
